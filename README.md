@@ -56,7 +56,7 @@ Here are some snapshots of the dashboards, highlighting various statistics and v
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### **Acknowledgments:**
-- **Data Source**: [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/kimtaehun/netflix-disney-content-data-visualization/notebook))
+- **Data Source**: https://www.kaggle.com/](https://www.kaggle.com/code/kimtaehun/netflix-disney-content-data-visualization/notebook
 - **Tools Used**: Microsoft Excel, Power BI
 
 
